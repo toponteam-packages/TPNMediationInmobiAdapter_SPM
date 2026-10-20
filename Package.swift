@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkInmobiAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkInmobiAdapter/11.4.1.2.9/AnyThinkInmobiAdapter-11.4.1.2.9.zip",
-            checksum: "55ca30758781f7866b309268e43b8d447bb663c838a341bc71e9cc4c20c9138b"
+            checksum: "1a29c44557a0fc7eb5d41db7e0cf2ea919afd2db4b05dd5523698cdc9994439c"
         ),
         .target(
             name: "TPNMediationInmobiAdapterTarget",
